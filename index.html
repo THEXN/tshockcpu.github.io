@@ -39,7 +39,24 @@
         tr:hover {
             background-color: #f1f1f1;
         }
+        .details {
+            display: none;
+            text-align: left;
+            margin-top: 10px;
+        }
+        .details img {
+            max-width: 150px;
+            height: auto;
+            margin-right: 20px;
+            vertical-align: middle;
+        }
     </style>
+    <script>
+        function toggleDetails(id) {
+            const details = document.getElementById(id);
+            details.style.display = details.style.display === 'none' ? 'block' : 'none';
+        }
+    </script>
 </head>
 <body>
     <header>
@@ -51,7 +68,7 @@
                 <th>排名</th>
                 <th>CPU 型号</th>
                 <th>性能分数</th>
-                <th>功耗 (W)</th>
+                <th>操作</th>
             </tr>
         </thead>
         <tbody>
@@ -59,31 +76,37 @@
                 <td>1</td>
                 <td>AMD Ryzen 9 7950X</td>
                 <td>48000</td>
-                <td>170</td>
+                <td><button onclick="toggleDetails('details1')">展开</button></td>
+            </tr>
+            <tr id="details1" class="details">
+                <td colspan="4">
+                    <img src="https://via.placeholder.com/150" alt="AMD Ryzen 9 7950X">
+                    <span>AMD Ryzen 9 7950X 是目前顶级的高性能处理器，适合高负载的任务和游戏。</span>
+                </td>
             </tr>
             <tr>
                 <td>2</td>
                 <td>Intel Core i9-13900K</td>
                 <td>47000</td>
-                <td>253</td>
+                <td><button onclick="toggleDetails('details2')">展开</button></td>
+            </tr>
+            <tr id="details2" class="details">
+                <td colspan="4">
+                    <img src="https://via.placeholder.com/150" alt="Intel Core i9-13900K">
+                    <span>Intel Core i9-13900K 提供了强大的单核性能，适合需要高主频的应用。</span>
+                </td>
             </tr>
             <tr>
                 <td>3</td>
                 <td>AMD Ryzen 7 7800X3D</td>
                 <td>45000</td>
-                <td>120</td>
+                <td><button onclick="toggleDetails('details3')">展开</button></td>
             </tr>
-            <tr>
-                <td>4</td>
-                <td>Intel Core i7-13700K</td>
-                <td>44000</td>
-                <td>200</td>
-            </tr>
-            <tr>
-                <td>5</td>
-                <td>AMD Ryzen 5 7600X</td>
-                <td>39000</td>
-                <td>105</td>
+            <tr id="details3" class="details">
+                <td colspan="4">
+                    <img src="https://via.placeholder.com/150" alt="AMD Ryzen 7 7800X3D">
+                    <span>AMD Ryzen 7 7800X3D 是游戏玩家的绝佳选择，拥有出色的能效比。</span>
+                </td>
             </tr>
         </tbody>
     </table>
