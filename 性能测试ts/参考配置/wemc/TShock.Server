@@ -1,0 +1,8 @@
+#!/bin/bash
+cd ..
+cd sh
+echo "#!/bin/bash
+cd ../workspace
+./start.sh
+" >start.sh 
+./start.sh

@@ -1,0 +1,97 @@
+#这是 TerrariaServer.exe 的示例配置文件
+#使用命令 'TerrariaServer.exe -config serverconfig.txt' 来使用此配置文件，或运行 start-server.bat
+#如需报告崩溃问题，请将 crashlog.txt 发送至 support@terraria.org
+
+#以下是可用的命令行参数列表：
+
+#-config <配置文件>                             指定要使用的配置文件。
+#-port <端口号>                                 指定监听的端口。
+#-players <数量> / -maxplayers <数量>           设置最大玩家数量。
+#-pass <密码> / -password <密码>                设置服务器密码。
+#-world <世界文件>                              加载一个世界并自动启动服务器。
+#-autocreate <#>                                如果在 -world 指定的路径中未找到世界，则创建一个世界。世界大小指定为：1（小）、2（中）、3（大）。
+#-banlist <路径>                                指定封禁列表的位置。默认为工作目录下的 "banlist.txt"。
+#-worldname <世界名称>                          在使用 -autocreate 时设置世界名称。
+#-secure                                        增加额外的作弊保护。
+#-noupnp                                        禁用自动端口转发。
+#-steam                                         启用 Steam 支持。
+#-lobby <friends> 或 <private>                  如果启用了 Steam，则允许好友加入服务器或将其设置为私有。
+#-ip <IP 地址>                                  设置服务器监听的 IP 地址。
+#-forcepriority <优先级>                        设置任务的进程优先级。如果使用此选项，将忽略下面的 "priority" 设置。
+#-disableannouncementbox                        禁用通过线路触发的公告箱文字公告。
+#-announcementboxrange <数字>                   设置公告箱文字消息范围（以像素为单位），-1 为全服公告。
+#-seed <种子>                                   在使用 -autocreate 时指定世界种子。
+
+#移除命令前的 # 以启用它们。
+
+#加载一个世界并自动启动服务器。
+#world=C:\Users\YOUR_USERNAME_HERE\My Documents\My Games\Terraria\Worlds\world1.wld
+
+#如果未找到世界，则创建一个新世界。世界大小指定为：1（小）、2（中）、3（大）。
+#autocreate=1
+
+#在使用 autocreate 时设置世界种子。
+#seed=AwesomeSeed
+
+#在使用 autocreate 时设置世界名称。
+#worldname=Terraria
+
+#在使用 autocreate 时设置世界难度 0（经典）、1（专家）、2（大师）、3（旅程）。
+#difficulty=0
+
+#设置服务器允许的最大玩家数量。取值范围为 1 至 255。
+#maxplayers=8
+
+#设置端口号。
+#port=7777
+
+#设置服务器密码。
+#password=p@55w0rd
+
+#设置公告信息（MOTD）。
+#motd=请不要砍伐紫色的树！
+
+#设置存储世界文件的文件夹。
+#worldpath=C:\Users\Defaults\My Documents\My Games\Terraria\Worlds\
+
+#设置要保留的滚动世界备份数量。
+#worldrollbackstokeep=2
+
+#封禁列表的位置。默认为工作目录下的 "banlist.txt"。
+#banlist=banlist.txt
+
+#增加额外的作弊保护。
+#secure=1
+
+#通过语言代码设置服务器语言。
+#英语 = en-US，德语 = de-DE，意大利语 = it-IT，法语 = fr-FR，西班牙语 = es-ES，俄语 = ru-RU，中文 = zh-Hans，葡萄牙语 = pt-BR，波兰语 = pl-PL。
+#language=en-US
+
+#自动使用 uPNP 转发端口。
+#upnp=1
+
+#减少敌人跳帧但增加带宽使用。数值越低跳帧越少，但发送的数据更多。0 表示关闭。
+#npcstream=60
+
+#默认系统优先级 0：实时，1：高，2：高于正常，3：正常，4：低于正常，5：空闲。
+priority=1
+
+#减少同时移动的液体数量。如果启用可能减少卡顿，但液体可能需要更长时间来稳定。
+#slowliquids=1
+
+#针对每个单独功能设置旅程模式权限。0：对所有人锁定，1：仅主机可更改，2：所有人可更改。
+#journeypermission_time_setfrozen=2
+#journeypermission_time_setdawn=2
+#journeypermission_time_setnoon=2
+#journeypermission_time_setdusk=2
+#journeypermission_time_setmidnight=2
+#journeypermission_godmode=2
+#journeypermission_wind_setstrength=2
+#journeypermission_rain_setstrength=2
+#journeypermission_time_setspeed=2
+#journeypermission_rain_setfrozen=2
+#journeypermission_wind_setfrozen=2
+#journeypermission_increaseplacementrange=2
+#journeypermission_setdifficulty=2
+#journeypermission_biomespread_setfrozen=2
+#journeypermission_setspawnrate=2
