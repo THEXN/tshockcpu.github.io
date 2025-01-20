@@ -73,6 +73,106 @@
     <header>
         <h1>CPU 性能天梯图</h1>
     </header>
+    <section>
+        <h2>前言</h2>
+        <p>测试方式：均为两名玩家，半夜测试测试，玩家进入后先执行几遍指令，10秒后执行5次指令并且记录。测试内容为随机选择地图上1000000个方块来更新比时间，尽量控制了变量，地图存档，插件等均相同。</p>
+        <p>简幻欢实例命名方式为[CPU级别.CPU厂商.具体配置.操作系统]</p>
+        <ul>
+            <li>CPU厂商以字母[A,I]分类，代表AMD,Intel。</li>
+            <li>操作系统以字母L,W分类，代表实例操作系统Linux或Windows，可能会影响能使用的实例服务端。</li>
+            <li>推荐在预算或内存足够的情况下，选择更高级别的CPU，以获得更流畅的体验，您也可以更换CPU厂商观察是否获得性能提升。</li>
+            <li>CPU级别以字母[C,B,A,S]等分级，代表具体CPU性能，详情型号等见下引用：</li>
+        </ul>
+        <h3>Intel</h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>CPU性能分级</th>
+                    <th>CPU型号</th>
+                    <th>CPU-Z跑分</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>C</td>
+                    <td>E5-2696v2，E5-2697v2</td>
+                    <td>300</td>
+                </tr>
+                <tr>
+                    <td>C+</td>
+                    <td>E5-2682v4</td>
+                    <td>330</td>
+                </tr>
+                <tr>
+                    <td>C++</td>
+                    <td>金牌6140</td>
+                    <td>350</td>
+                </tr>
+                <tr>
+                    <td>B-</td>
+                    <td>E5-2690v4,铂金8175M,金牌6148</td>
+                    <td>365</td>
+                </tr>
+                <tr>
+                    <td>B</td>
+                    <td>铂金8124/8124M</td>
+                    <td>400</td>
+                </tr>
+                <tr>
+                    <td>B++</td>
+                    <td>铂金8151</td>
+                    <td>470</td>
+                </tr>
+                <tr>
+                    <td>S-</td>
+                    <td>I7-12700K,I7-13700K</td>
+                    <td>750</td>
+                </tr>
+                <tr>
+                    <td>S</td>
+                    <td>I9-13900K,I7-14700K</td>
+                    <td>900</td>
+                </tr>
+            </tbody>
+        </table>
+        <h3>AMD</h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>CPU性能分级</th>
+                    <th>CPU型号</th>
+                    <th>CPU-Z跑分</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>B+</td>
+                    <td>EPYC 7C13/7B13/7713</td>
+                    <td>435</td>
+                </tr>
+                <tr>
+                    <td>B++</td>
+                    <td>EPYC 7Y43/7T83/7K83</td>
+                    <td>470</td>
+                </tr>
+                <tr>
+                    <td>A</td>
+                    <td>R9-5900X/5950X</td>
+                    <td>640</td>
+                </tr>
+                <tr>
+                    <td>S-</td>
+                    <td>R9-7900X/7950X</td>
+                    <td>720</td>
+                </tr>
+                <tr>
+                    <td>S</td>
+                    <td>R9-9900X/9950X</td>
+                    <td>850</td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
     <table>
         <thead>
             <tr>
@@ -138,7 +238,7 @@
             </tr>
             <tr id="details5" class="details">
                 <td colspan="4">
-                    <img src="./index_files/简幻欢 R9-5900X.jpg" alt="R9-5900X">
+                    <img src="./index_files/简幻欢 R9-5900X, R9-5950X.jpg" alt="简幻欢 R9-5900X, R9-5950X">
                     A（R9-5900X/5950X）.A.M.L 4核8g 20G（硬盘）130积分
                 </td>
             </tr>
@@ -237,10 +337,10 @@
             <tr id="details13" class="details">
                 <td colspan="4">
                     <img src="./index_files/wemc 未知配置.jpg" alt="wemc 未知配置">
-                    C++（金牌6140）.I.M.L 4核8G 16G（硬盘），50积分
+                    个人使用体验：各种奇怪的小问题，而且他们的启动脚本太怪了，还不好自定义启动脚本（你不好碰到他们的脚本）
                 </td>
             </tr>
-            
+
             <tr>
                 <td>简幻欢 铂金8151</td>
                 <td>288840.012</td>
