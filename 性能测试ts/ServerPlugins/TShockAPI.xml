@@ -827,7 +827,7 @@
             <summary>The reason given if banning a mediumcore player on death.</summary>
         </member>
         <member name="F:TShockAPI.Configuration.TShockSettings.DisableDefaultIPBan">
-            <summary>Disbales IP bans by default, if no arguments are passed to the ban command.</summary>
+            <summary>Disables IP bans by default, if no arguments are passed to the ban command.</summary>
         </member>
         <member name="F:TShockAPI.Configuration.TShockSettings.EnableWhitelist">
             <summary>Enable or disable the whitelist based on IP addresses in the whitelist.txt file.</summary>
@@ -2161,6 +2161,14 @@
             <param name="account">The user account</param>
             <param name="group">The user account group to be set</param>
         </member>
+        <member name="M:TShockAPI.DB.UserAccountManager.SetUserGroup(TShockAPI.TSPlayer,TShockAPI.DB.UserAccount,System.String)">
+            <summary>
+            Sets the group for a given username
+            </summary>
+            <param name="author">Who changes the group</param>
+            <param name="account">The user account</param>
+            <param name="group">The user account group to be set</param>
+        </member>
         <member name="M:TShockAPI.DB.UserAccountManager.UpdateLogin(TShockAPI.DB.UserAccount)">
             <summary>Updates the last accessed time for a database user account to the current time.</summary>
             <param name="account">The user account object to modify.</param>
@@ -2331,8 +2339,16 @@
         </member>
         <member name="M:TShockAPI.DB.UserAccountNotExistException.#ctor(System.String)">
             <summary>Creates a new UserAccountNotExistException object, with the user account name in the message.</summary>
-            <param name="name">The user account name to be pasesd in the message.</param>
+            <param name="name">The user account name to be passed in the message.</param>
             <returns>A new UserAccountNotExistException object with a message containing the user account name that does not exist.</returns>
+        </member>
+        <member name="T:TShockAPI.DB.UserGroupUpdateLockedException">
+            <summary>The UserGroupUpdateLockedException used when the user group update failed and the request failed as a result.</summary>.
+        </member>
+        <member name="M:TShockAPI.DB.UserGroupUpdateLockedException.#ctor(System.String)">
+            <summary>Creates a new UserGroupUpdateLockedException object.</summary>
+            <param name="name">The name of the user who failed to change the group.</param>
+            <returns>New UserGroupUpdateLockedException object with a message containing the name of the user account that failed to change the group.</returns>
         </member>
         <member name="T:TShockAPI.DB.GroupNotExistsException">
             <summary>A GroupNotExistsException, used when a group does not exist.</summary>
@@ -4137,6 +4153,11 @@
             The group's chat color blue byte.
             </summary>
         </member>
+        <member name="P:TShockAPI.Group.Color">
+            <summary>
+            Simplifies work with the <see cref="F:TShockAPI.Group.R"/>, <see cref="F:TShockAPI.Group.G"/>, <see cref="F:TShockAPI.Group.B"/> properties.
+            </summary>
+        </member>
         <member name="F:TShockAPI.Group.DefaultGroup">
             <summary>
             The default group attributed to unregistered users.
@@ -4679,6 +4700,11 @@
             <param name="sender"></param>
             <param name="args"></param>
         </member>
+        <member name="P:TShockAPI.Hooks.AccountGroupUpdateByPlayerEventArgs.Player">
+            <summary>
+            The player who updated the user's group
+            </summary>
+        </member>
         <member name="T:TShockAPI.Hooks.PlayerPostLoginEventArgs">
             <summary>
             EventArgs used for the <see cref="E:TShockAPI.Hooks.PlayerHooks.PlayerPostLogin"/> event.
@@ -4764,6 +4790,36 @@
         <member name="P:TShockAPI.Hooks.PlayerCommandEventArgs.CommandPrefix">
             <summary>
             The prefix used to send the command (either <see cref="P:TShockAPI.Commands.Specifier"/> or <see cref="P:TShockAPI.Commands.SilentSpecifier"/>).
+            </summary>
+        </member>
+        <member name="T:TShockAPI.Hooks.PrePlayerCommandEventArgs">
+            <summary>
+            EventArgs used for the <see cref="E:TShockAPI.Hooks.PlayerHooks.PrePlayerCommand"/> event.
+            </summary>
+        </member>
+        <member name="P:TShockAPI.Hooks.PrePlayerCommandEventArgs.Command">
+            <summary>
+            The command entered by the player.
+            </summary>
+        </member>
+        <member name="P:TShockAPI.Hooks.PrePlayerCommandEventArgs.Arguments">
+            <summary>
+            Command arguments.
+            </summary>
+        </member>
+        <member name="T:TShockAPI.Hooks.PostPlayerCommandEventArgs">
+            <summary>
+            EventArgs used for the <see cref="E:TShockAPI.Hooks.PlayerHooks.PostPlayerCommand"/> event.
+            </summary>
+        </member>
+        <member name="P:TShockAPI.Hooks.PostPlayerCommandEventArgs.Command">
+            <summary>
+            The command entered by the player.
+            </summary>
+        </member>
+        <member name="P:TShockAPI.Hooks.PostPlayerCommandEventArgs.Arguments">
+            <summary>
+            Command arguments.
             </summary>
         </member>
         <member name="T:TShockAPI.Hooks.PlayerChatEventArgs">
@@ -4968,6 +5024,28 @@
             Fired by players when using a command.
             </summary>
         </member>
+        <member name="T:TShockAPI.Hooks.PlayerHooks.PrePlayerCommandD">
+            <summary>
+            The delegate of the <see cref="E:TShockAPI.Hooks.PlayerHooks.PrePlayerCommand"/> event.
+            </summary>
+            <param name="e">The EventArgs for this event.</param>
+        </member>
+        <member name="E:TShockAPI.Hooks.PlayerHooks.PrePlayerCommand">
+            <summary>
+            Fired before a command is run.
+            </summary>
+        </member>
+        <member name="T:TShockAPI.Hooks.PlayerHooks.PostPlayerCommandD">
+            <summary>
+            The delegate of the <see cref="E:TShockAPI.Hooks.PlayerHooks.PostPlayerCommand"/> event.
+            </summary>
+            <param name="e">The EventArgs for this event.</param>
+        </member>
+        <member name="E:TShockAPI.Hooks.PlayerHooks.PostPlayerCommand">
+            <summary>
+            Fired after a command is run.
+            </summary>
+        </member>
         <member name="T:TShockAPI.Hooks.PlayerHooks.PlayerChatD">
             <summary>
             The delegate of the <see cref="E:TShockAPI.Hooks.PlayerHooks.PlayerChat"/> event.
@@ -5052,6 +5130,22 @@
             <param name="commands">The list of commands.</param>
             <param name="cmdPrefix">The command specifier used.</param>
             <returns>True if the event has been handled.</returns>
+        </member>
+        <member name="M:TShockAPI.Hooks.PlayerHooks.OnPrePlayerCommand(TShockAPI.Command,TShockAPI.CommandArgs@)">
+            <summary>
+            Fires the <see cref="E:TShockAPI.Hooks.PlayerHooks.PrePlayerCommand"/> event.
+            </summary>
+            <param name="cmd">Command to be executed</param>
+            <param name="arguments">Command arguments</param>
+            <returns>True if the event has been handled.</returns>
+        </member>
+        <member name="M:TShockAPI.Hooks.PlayerHooks.OnPostPlayerCommand(TShockAPI.Command,TShockAPI.CommandArgs,System.Boolean)">
+            <summary>
+            Fires the <see cref="E:TShockAPI.Hooks.PlayerHooks.PostPlayerCommand"/> event.
+            </summary>
+            <param name="cmd">Executed command.</param>
+            <param name="arguments">Command arguments.</param>
+            <param name="handled">Is the command executed.</param>
         </member>
         <member name="M:TShockAPI.Hooks.PlayerHooks.OnPlayerPreLogin(TShockAPI.TSPlayer,System.String,System.String)">
             <summary>
@@ -5466,6 +5560,13 @@
             <param name="id">Buff Id</param>
             <returns>Buff name in English</returns>
         </member>
+        <member name="M:TShockAPI.Localization.EnglishLanguage.GetCommandPrefixByName(System.String)">
+            <summary>
+            Get vanilla command prefix in English
+            </summary>
+            <param name="name">vanilla command name</param>
+            <returns>vanilla command prefix in English</returns>
+        </member>
         <member name="T:TShockAPI.Models.PlayerUpdate.ControlSet">
             <summary>
             Model for a control event sent with a player update packet
@@ -5814,6 +5915,18 @@
             <param name="netId">The net ID.</param>
             <param name="stack">The stack.</param>
             <param name="prefixId">The prefix ID.</param>
+        </member>
+        <member name="M:TShockAPI.NetItem.#ctor(Terraria.Item)">
+            <summary>
+            Creates a new <see cref="T:TShockAPI.NetItem"/>.
+            </summary>
+            <param name="item">Item in the game.</param>
+        </member>
+        <member name="M:TShockAPI.NetItem.ToItem">
+            <summary>
+            Creates <see cref="T:Terraria.Item"/> based on data from this structure.
+            </summary>
+            <returns>A copy of the item.</returns>
         </member>
         <member name="M:TShockAPI.NetItem.ToString">
             <summary>
@@ -6839,6 +6952,9 @@
         </member>
         <member name="F:TShockAPI.TSPlayer.IsDisabledPendingTrashRemoval">
             <summary>Determines if the player is disabled for not clearing their trash. A re-login is the only way to reset this.</summary>
+        </member>
+        <member name="F:TShockAPI.TSPlayer.FinishedHandshake">
+            <summary>Determines if the player has finished the handshake (Sent all necessary packets for connection, such as Request World Data, Spawn Player, etc). A normal client would do all of this no problem.</summary>
         </member>
         <member name="M:TShockAPI.TSPlayer.IsBouncerThrottled">
             <summary>Checks to see if active throttling is happening on events by Bouncer. Rejects repeated events by malicious clients in a short window.</summary>

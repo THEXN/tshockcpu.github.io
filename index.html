@@ -73,9 +73,8 @@
     <header>
         <h1>CPU 性能天梯图</h1>
     </header>
-    <section>
         <h2>前言</h2>
-        <p>测试方式：均为两名玩家，半夜测试测试，玩家进入后先执行几遍指令，10秒后执行5次指令并且记录。测试内容为随机选择地图上1000000个方块来更新比时间，尽量控制了变量，地图存档，插件等均相同。</p>
+        <p>测试方式：均为两名玩家，半夜测试，玩家进入后先执行几遍指令，10秒后执行5次指令并且记录。测试内容为随机选择地图上1000000个方块来更新比时间，尽量控制了变量，地图存档，插件等均相同。</p>
         <p>简幻欢实例命名方式为[CPU级别.CPU厂商.具体配置.操作系统]</p>
         <ul>
             <li>CPU厂商以字母[A,I]分类，代表AMD,Intel。</li>
@@ -266,7 +265,19 @@
                     我自己的电脑
                 </td>
             </tr>
-            <!-- 8 -->
+
+            <tr>
+                <td>腾讯云 AMD EPYC 7K62 48-Core Processor 2.60 GHz</td>
+                <td>585560.768</td>
+                <td><button onclick="toggleDetails('details18')">展开</button></td>
+            </tr>
+            <tr id="details18" class="details">
+                <td colspan="4">
+                    <img src="./index_files/腾讯云 AMD EPYC 7K62 48-Core Processor 2.60 GHz.jpg" alt="腾讯云 AMD EPYC 7K62 48-Core Processor 2.60 GHz.jpg">
+                    腾讯云特惠机器 忘记几百3年了
+                </td>
+            </tr>
+
             <tr>
                 <td>简幻欢 EPYC 7C13, EPYC 7B13, EPYC 7713</td>
                 <td>585560.768</td>
@@ -292,6 +303,19 @@
                     个人测试体验 面板很流畅，有自定义启动脚本，感觉不错，后续测试 大师FTW大世界1天7人左右下来大概在1000电量左右（等于积分500），而且会出现奇怪的问题，测试服主发现 玩家有时候会莫名断连，但是后台未显示玩家被踢出，手动踢出后，大部分玩家也无法再次进入，并且后台没有玩家的链接请求，在简幻欢测试不会出现这种情况，大概率是雨云的问题
                 </td>
             </tr>
+
+            <tr>
+                <td>Intel(R) Xeon(R) Platinum 8124M CPU @ 3.00GHz</td>
+                <td>506865.884</td>
+                <td><button onclick="toggleDetails('details17')">展开</button></td>
+            </tr>
+            <tr id="details17" class="details">
+                <td colspan="4">
+                    <img src="./index_files/Intel(R) Xeon(R) Platinum 8124M CPU @ 3.00GHz.jpg" alt="Intel(R) Xeon(R) Platinum 8124M CPU @ 3.00GHz">
+                    喵云S4
+                </td>
+            </tr>
+
             <tr>
                 <td>简幻欢 E5-2690v4,铂金8175M,金牌6148</td>
                 <td>505349.168</td>
