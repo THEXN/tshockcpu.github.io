@@ -1,0 +1,257 @@
+---
+title: 茑萝服务器资源站-直链下载
+id: '232'
+tags: []
+categories:
+  - - uncategorized
+date: 2022-11-16 23:25:35
+---
+
+* * *
+
+## 总目录
+
+受不了了，可能需要大家登录下载了，123云盘又改了，现在我开vip也只能免登录10g流量，我他妈给他一拳
+
+*   泰拉瑞亚电脑版下载
+    *   [原版最新版](https://www.123pan.com/s/x6kKVv-ajhe)（当前为1.4.4.9）+[1449tml最新版](https://www.123684.com/s/x6kKVv-cp4e)（当前为：v.2024.10.3.0）+[1436tml最新版](https://www.123pan.com/s/x6kKVv-uGEe.html)（当前为v.2022.09.47.87已经停止继续更新）+[1353tml最新版](https://www.123pan.com/s/x6kKVv-Jjhe)（当前为v.0.11.8.9）
+    *   上述版本整合包，整合包不定时更新（[点击下载整合包](https://www.123pan.com/s/x6kKVv-gtoe.html)）
+    *   [原版各个版本单独下载](https://niaoluo.top/fwq/fwqzyz/nlfwqzyz-zlxz#泰拉瑞亚电脑版下载)
+    *   [tml最新版单独下载](https://niaoluo.top/fwq/fwqzyz/nlfwqzyz-zlxz#tml最新版单独下载)
+        *   [1.3.5.3](https://www.123pan.com/s/x6kKVv-Jjhe)
+        *   [1.4.3.6](https://www.123pan.com/s/x6kKVv-uGEe.html)
+        *   [1.4.4.9](https://www.123684.com/s/x6kKVv-cp4e)
+*   [泰拉瑞亚手机版下载](https://niaoluo.top/fwq/fwqzyz/nlfwqzyz-zlxz#泰拉瑞亚手机版下载)
+*   [泰拉瑞亚地图存档](https://niaoluo.top/fwq/fwqzyz/nlfwqzyz-zlxz/#泰拉瑞亚地图存档)
+*   [泰拉瑞亚人物文件](https://niaoluo.top/fwq/fwqzyz/nlfwqzyz-zlxz/#泰拉瑞亚人物文件)
+*   [泰拉瑞亚，实用工具](https://niaoluo.top/fwq/fwqzyz/nlfwqzyz-zlxz/#泰拉瑞亚，实用工具)
+*   [泰拉瑞亚材质包分享](https://niaoluo.top/fwq/fwqzyz/nlfwqzyz-zlxz/#泰拉瑞亚材质包分享)
+*   [泰拉瑞亚要的运行环境](https://niaoluo.top/fwq/fwqzyz/nlfwqzyz-zlxz/#泰拉瑞亚要的运行环境)
+*   [联机可以使用的软件\\网站](https://niaoluo.top/fwq/fwqzyz/nlfwqzyz-zlxz/#联机可以使用的软件\网站)
+*   [MOD搬运下载](https://niaoluo.top/fwq/fwqzyz/nlfwqzyz-zlxz/#MOD搬运下载)
+*   [TShock插件](https://niaoluo.top/fwq/fwqzyz/nlfwqzyz-zlxz/#TShock插件)
+*   杂物
+
+* * *
+
+![](https://api.yimian.xyz/img)
+
+* * *
+
+## 泰拉瑞亚电脑版下载
+
+### 点击即可下载（怕倒卖，有些会加水印）
+
+#### 原版各个版本单独下载
+
+*   [1.4.4.9](https://www.123pan.com/s/x6kKVv-Ujhe)
+*   [1.4.4.8.1](https://www.123pan.com/s/x6kKVv-Mjhe)
+*   [1.4.4.8](https://www.123pan.com/s/x6kKVv-wjhe)
+*   [1.4.4.7](https://www.123pan.com/s/x6kKVv-gjhe)
+*   [1.4.4.6](https://www.123pan.com/s/x6kKVv-Fjhe)
+*   [1.4.4.5](https://www.123pan.com/s/x6kKVv-Yjhe)
+*   [1.4.4.4](https://www.123pan.com/s/x6kKVv-Gjhe)
+*   [1.4.4.3](https://www.123pan.com/s/x6kKVv-Pjhe)
+*   [1.4.4.2](https://www.123684.com/s/x6kKVv-TK1e)
+*   [1.4.4.1](https://www.123pan.com/s/x6kKVv-Xjhe)
+*   [1.4.4.0](https://www.123pan.com/s/x6kKVv-njhe)
+*   [1.4.3.6](https://www.123pan.com/s/x6kKVv-2jhe)
+*   [1.4.3.2](https://www.123pan.com/s/x6kKVv-2jhe)
+*   [1.4.3.0](https://www.123pan.com/s/x6kKVv-Wjhe)
+*   [1.4.2.3](https://www.123pan.com/s/x6kKVv-Cjhe)
+*   [1.4.2.2](https://www.123pan.com/s/x6kKVv-Njhe)
+*   [1.4.2.1](https://www.123pan.com/s/x6kKVv-Ojhe)
+*   [1.4.1.2](https://www.123pan.com/s/x6kKVv-Rjhe)
+*   [1.4.0.5](https://www.123pan.com/s/x6kKVv-Djhe)
+*   [1.3.5.3](https://www.123pan.com/s/x6kKVv-rjhe)
+*   [1.2.4.1](https://www.123pan.com/s/x6kKVv-bpHe)
+*   [1.1](https://www.123pan.com/s/x6kKVv-epHe)
+*   [1.0](https://www.123pan.com/s/x6kKVv-tpHe)
+*   [bata](https://www.123pan.com/s/x6kKVv-ZpHe)
+*   [pre版](https://www.123pan.com/s/x6kKVv-cpHe)
+
+* * *
+
+#### tml单独下载
+
+*   [1449tml最新版](https://www.123684.com/s/x6kKVv-cp4e)（当前为：v.2024.10.3.0）
+*   [1436tml最新版](https://www.123pan.com/s/x6kKVv-uGEe.html)（当前为：v.2022.09.47.87）
+*   [1353tml最新版](https://www.123pan.com/s/x6kKVv-Jjhe)（当前为：v.0.11.8.9）
+
+[我是一个展示更多更全版本的按钮，如果上方链接失效也可以点我，如果本按钮也失效，可联系肝帝熙恩](https://www.123pan.com/s/x6kKVv-ojhe)
+
+* * *
+
+![](https://api.yimian.xyz/img)
+
+* * *
+
+## 泰拉瑞亚手机版下载
+
+### 点击即可下载
+
+*   [手机安卓版1.4.4.9最新最推荐：删除第一分型限制，修复字体](https://www.123684.com/s/x6kKVv-F01e)
+*   [手机ios版1.4.4.9最新最推荐：删除第一分型限制，修复字体](https://www.123684.com/s/x6kKVv-F01e)
+*   [手机版1.4.4.9](https://www.123pan.com/s/x6kKVv-RmHe)
+*   [手机版1.4.4.5](https://www.123pan.com/s/x6kKVv-8jhe)
+*   [手机版1.4.4](https://www.123pan.com/s/x6kKVv-0jhe)
+*   [手机版1.4.3.2.3](https://www.123pan.com/s/x6kKVv-Kjhe)
+*   [手机版1.2](https://www.123pan.com/s/x6kKVv-ujhe)
+
+[我是一个展示更多更全版本的按钮，如果上方链接失效也可以点我，如果本按钮也失效，可联系肝帝熙恩](https://www.123pan.com/s/x6kKVv-mjhe)
+
+* * *
+
+![](https://api.yimian.xyz/img)
+
+* * *
+
+## 泰拉瑞亚地图存档
+
+### 全物品专区
+
+*   [1.4.4言寺的全物品（大师）（推荐）](https://www.123pan.com/s/x6kKVv-92He)
+*   [1.4.4言寺的全物品（旅行）（推荐）](https://www.123pan.com/s/x6kKVv-Q2He)
+*   [1.4.4大师全物品存档](https://www.123pan.com/s/x6kKVv-dTHe)
+*   [1436全物品国际(大师模式)](https://www.123pan.com/s/x6kKVv-3THe)
+*   [1436全物品国际(旅途模式)](https://124-224-81-177.d.123pan.cn:30443/123-433/b17f3f69/1812091284-0/b17f3f69d11294cd3db301d63910b5b1?v=2&t=1668934452&s=552fd76fe662c0c54e8b98b3e0c61b0b&filename=1436%E5%85%A8%E7%89%A9%E5%93%81%E5%9B%BD%E9%99%85(%E6%97%85%E9%80%94%E6%A8%A1%E5%BC%8F).wld&d=c00fd403)
+*   [1353修改版全物品存档(by.末影)](https://niaoluo-top-1303944849.cos.ap-shanghai.myqcloud.com/%E8%8C%91%E8%90%9D%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%BE%A4%E8%B5%84%E6%BA%90/%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9A%E5%9C%B0%E5%9B%BE%E5%AD%98%E6%A1%A3/%E5%85%A8%E7%89%A9%E5%93%81%E5%90%88%E9%9B%86/1353%E4%BF%AE%E6%94%B9%E7%89%88%E5%85%A8%E7%89%A9%E5%93%81%E5%AD%98%E6%A1%A3%28by.%E6%9C%AB%E5%BD%B1%29.wld)
+*   [1308加强整理无防新の全物品存档v2.5](https://niaoluo-top-1303944849.cos.ap-shanghai.myqcloud.com/%E8%8C%91%E8%90%9D%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%BE%A4%E8%B5%84%E6%BA%90/%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9A%E5%9C%B0%E5%9B%BE%E5%AD%98%E6%A1%A3/%E5%85%A8%E7%89%A9%E5%93%81%E5%90%88%E9%9B%86/1308%E5%8A%A0%E5%BC%BA%E6%95%B4%E7%90%86%E6%97%A0%E9%98%B2%E6%96%B0%E3%81%AE%E5%85%A8%E7%89%A9%E5%93%81%E5%AD%98%E6%A1%A3v2.5.wld)
+
+其他地图因为内容太多，请前往123云盘下载
+
+[前往下载更多地图](https://www.123pan.com/s/x6kKVv-6yhe)
+
+* * *
+
+![](https://api.yimian.xyz/img)
+
+* * *
+
+## 泰拉瑞亚人物文件
+
+此处人物并非全由本人自己制作！请自主辨别！不同版本可能存在无法正常使用的情况
+
+*   [斯卡蒂](https://www.123pan.com/s/x6kKVv-hTHe)
+*   [坤坤](https://www.123pan.com/s/x6kKVv-HTHe)
+*   [旅行全解锁人物](https://www.123pan.com/s/x6kKVv-ATHe)
+*   车万的角色
+    *   [m子](https://www.123pan.com/s/x6kKVv-9THe)
+    *   [受兔](https://www.123pan.com/s/x6kKVv-QTHe)
+    *   [惠音老师](https://www.123pan.com/s/x6kKVv-ETHe)
+    *   [蓬莱人](https://www.123pan.com/s/x6kKVv-kTHe)
+    *   [辉夜](https://www.123pan.com/s/x6kKVv-oTHe)
+*   [御琼岚](https://www.123pan.com/s/x6kKVv-mTHe)
+
+[更多人物/链接寄了点这个](https://www.123pan.com/s/x6kKVv-xjhe)
+
+* * *
+
+![](https://api.yimian.xyz/img)
+
+* * *
+
+## 泰拉瑞亚，实用工具
+
+*   [TEdit最新版](https://github.com/TEdit/Terraria-Map-Editor/releases)
+    *   [通道二](https://www.123684.com/s/x6kKVv-G01e)（不会打开上面的就点这个，随缘更新，当前为：4.16.1）
+
+由于新版Tedit可以直接编辑并且倒退旧版本地图，因此不再提供旧版Tedit
+
+*   [Tshock最新稳定版](https://github.com/Pryaxis/TShock/releases/download/v5.2.0/TShock-5.2-for-Terraria-1.4.4.9-win-x64-Release.zip)（当前为：Tshock5.2 for Terraria1.4.4.9）
+    *   [通道二（包含中文启动.bat）](https://www.123pan.com/s/x6kKVv-OG9e.html)
+
+完全照搬github的，不提供咨询服务，也不提供测试版，要问去TS群问
+
+*   [手机版存档修改器](https://www.123pan.com/s/x6kKVv-qjhe)（软件内可更新，请去支持原作者，软件内有其赞助方式）
+
+不提供电脑修改器，因为电脑修改器实时更改很容易被拿去破坏其他人游戏体验
+
+*   可保存第一分型的游戏端
+    *   [1449本站有steam验证下载](https://www.123pan.com/s/x6kKVv-QOQe.html)
+    *   [1449本站破解无需steam验证版下载](https://www.123pan.com/s/x6kKVv-EOQe.html)
+    *   [其他版本百度网盘（原作者的）](https://pan.baidu.com/s/1b1zKRHe0s7fsNG6iAT0KWA)提取码：trtr
+    *   [原视频及其教程](https://www.bilibili.com/video/BV16Y4y1t7cZ/)
+    *   [手机版，来自b站EternalFuture，可获取第一分型，修复字体](https://www.123pan.com/s/x6kKVv-Zlme.html)(ios也有，去手机版板块下载)
+
+[更多小工具点这个，比如拆包工具和其他小玩具什么的](https://www.123pan.com/s/x6kKVv-1jhe)
+
+* * *
+
+![](https://api.yimian.xyz/img)
+
+* * *
+
+## 泰拉瑞亚材质包分享
+
+> *   Potralia的个人汉化
+>     *   [Potralia的个人汉化最新版](https://www.123pan.com/s/x6kKVv-exQe.html)，实时更新（当前为：2023.07.04）（好懒啊不想更新）
+>     *   [Potralia的个人汉化（1436时期）](https://www.123pan.com/s/x6kKVv-4THe)
+> 
+> *   [Better female noises(角色声效)（还可以）](https://www.123pan.com/s/x6kKVv-xTHe)
+> *   [Custom font(萝莉体Lolita font).by.星空 ホタル](https://www.123pan.com/s/x6kKVv-pTHe)
+> *   [Groans(角色声效)（鬼叫）](https://www.123pan.com/s/x6kKVv-fTHe)
+> *   [MC材质包](https://www.123pan.com/s/x6kKVv-aTHe)
+> *   [Meumy（咩栗保护协会的）](https://www.123pan.com/s/x6kKVv-BTHe)
+> *   [Wahtch Your Step(角色声效)（小孩叫）](https://www.123pan.com/s/x6kKVv-JTHe)
+> *   [官方材质包](https://www.123pan.com/s/x6kKVv-ITHe)
+> *   [护士变华法琳](https://www.123pan.com/s/x6kKVv-MTHe)
+> *   [娘化材质包](https://www.123pan.com/s/x6kKVv-wTHe)
+> *   [铸造与炼金](https://www.123pan.com/s/x6kKVv-gTHe)
+
+[更多材质包点这个](https://www.123pan.com/s/x6kKVv-4jhe)
+
+* * *
+
+![](https://api.yimian.xyz/img)
+
+* * *
+
+## 泰拉瑞亚要的运行环境
+
+通常情况下只需要下载安装前面两项（你在本站下载的泰拉瑞亚文件夹里面都自带这两个文件），也就是.net和xna就能成功运行。其他几个一般电脑都自带了
+
+对于怎么安装环境，泰拉瑞亚为何打不开，实在不懂的可以[单击此处](https://niaoluo.top/2022/11/17/%e6%b3%b0%e6%8b%89%e7%91%9e%e4%ba%9a%e6%89%93%e4%b8%8d%e5%bc%80%e5%b8%b8%e8%a7%81%e9%97%ae%e9%a2%98%e8%a7%a3%e7%ad%94v2-1/)的链接查看教程
+
+*   [.net Framework 4](https://www.123pan.com/s/x6kKVv-6jhehttps://www.123pan.com/s/x6kKVv-6jhe)
+    *   [.net 6](https://dotnet.microsoft.com/zh-cn/download/dotnet/thank-you/runtime-desktop-6.0.13-windows-x64-installer)（有需要的自己可以安装）
+        *   [通道二](https://www.123pan.com/s/x6kKVv-yjhe)
+        *   [官网](https://dotnet.microsoft.com/zh-cn/download/dotnet/6.0)
+    *   [.net 8](https://dotnet.microsoft.com/zh-cn/download/dotnet/thank-you/runtime-desktop-8.0.5-windows-x64-installer)（2024.03以后的tml需要）
+        *   [通道二](https://www.123pan.com/s/x6kKVv-Dnoe.html)
+        *   [官网](https://dotnet.microsoft.com/zh-cn/download/dotnet/8.0)
+*   [xna（xnafx40\_redist.msi）](https://www.123pan.com/s/x6kKVv-Vjhe)
+
+*   [dxwebsetup.exe](https://www.123pan.com/s/x6kKVv-jjhe)
+*   [oalinst.exe](https://www.123pan.com/s/x6kKVv-TTHe)
+*   [vcredist\_x86.exe](https://www.123pan.com/s/x6kKVv-vTHe)(如果只玩原版，安装这个)
+    *   [vcredist X64.exe](https://www.123pan.com/s/x6kKVv-mtQe.html)(如果玩tml，安装这个)
+    *   这两个的[官网链接](https://www.microsoft.com/zh-cn/download/details.aspx?id=53587)
+
+* * *
+
+![](https://api.yimian.xyz/img)
+
+* * *
+
+## MOD搬运下载
+
+盗版现在也可以在游戏内下载MOD了，详细可看：  
+[如何玩到泰拉瑞亚模组（tmod） – 茑萝服务器 (niaoluo.top)](https://niaoluo.top/2022/11/21/%e5%a6%82%e4%bd%95%e7%8e%a9%e5%88%b0%e6%b3%b0%e6%8b%89%e7%91%9e%e4%ba%9a%e6%a8%a1%e7%bb%84%ef%bc%88tmod%ef%bc%89/)
+
+下面是以前搬运过的，不再更新
+
+[前往下载mod](https://www.123pan.com/s/x6kKVv-qyhe)
+
+* * *
+
+![](https://api.yimian.xyz/img)
+
+* * *
+
+## TShock插件
+
+*   相关内容可看：  
+    https://gitee.com/THEXN/Tshock-nav
+
+* * *

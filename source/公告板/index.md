@@ -1,0 +1,33 @@
+---
+title: 公告板
+id: '849'
+tags: []
+categories:
+  - - uncategorized
+comments: false
+date: 2023-05-07 21:18:24
+---
+
+服务器群以及b站号：
+
+*   ark总群：1047149754
+*   Sakura群号：837565150
+*   Stardust群号：616186214
+*   星迹群号：181121129
+*   茑萝一群：733465449
+*   茑萝二群：418604829
+*   茑萝三群：751851825
+*   茑萝五群：640674567
+*   茑萝六群：767325710
+*   [肝帝熙恩的b站主页](https://space.bilibili.com/171369384/favlist)
+
+## Ark服务器赞助板
+
+Ark服务器是由茑萝、星迹、Stardust、Sakura四个服务器联合而成的联合服务器  
+Ark服务器是一个完全公益的服务器，这意味着赞助服务器不会为你带来任何服务器内的收益（除了我们的感激），赞助二维码见右侧。  
+服务器赞助账单会定期公开，并且赞助所得资金收入抵去服务器开支后会全额捐入韩红基金会。  
+[赞助公示](https://shimo.im/sheets/tvYK3JrKvQKx3ThG/MODOC):[https://shimo.im/sheets/tvYK3JrKvQKx3ThG/MODOC](https://shimo.im/sheets/tvYK3JrKvQKx3ThG/MODOC)
+
+![](https://pic.niaoluo.top/%E7%BD%91%E7%AB%99%E8%B0%83%E7%94%A8/QQ%E5%9B%BE%E7%89%8720230507212730.jpg)
+
+## 茑萝服务器PVP武器禁用
