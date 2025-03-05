@@ -3,7 +3,7 @@ title: C++学习记录
 id: '778'
 tags: []
 categories:
-  - - uncategorized
+  - [学习,C++]
 comments: false
 date: 2023-04-20 20:20:17
 ---
