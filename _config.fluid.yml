@@ -21,7 +21,7 @@
 favicon: /img/logo.ico
 
 exclude_files:
-  - '_posts/!泰拉瑞亚相关/性能测试/性能测试ts/**'
+  - '_posts/!泰拉瑞亚相关/性能测试/性能测试ts/**/*.md'
 
 # 用于苹果设备的图标
 # Icon for Apple touch
