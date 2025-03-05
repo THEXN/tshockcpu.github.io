@@ -5,9 +5,7 @@ tags:
   - 学习
 id: '728'
 categories:
-  - - '%e5%ad%a6%e4%b9%a0'
-    - C语言
-  - - 学习
+  - [学习,ctf,misc]
 date: 2023-02-25 15:17:55
 ---
 
