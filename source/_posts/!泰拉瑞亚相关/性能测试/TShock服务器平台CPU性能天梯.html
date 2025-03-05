@@ -1,3 +1,12 @@
+---
+title: TShock服务器平台CPU性能天梯图
+tags: [泰拉瑞亚,Terraria]
+categories:
+  - [泰拉瑞亚]
+date: 2024-10-23 15:41:54
+sticky: 97
+---
+
 <!DOCTYPE html>
 <html lang="zh-CN">
 
@@ -54,27 +63,25 @@
             margin-top: 10px;
         }
 
-        .details img {
-            max-width: 150px;
-            height: auto;
-            margin-right: 20px;
-            vertical-align: middle;
-        }
+            .details img {
+                max-width: 150px;
+                height: auto;
+                margin-right: 20px;
+                vertical-align: middle;
+            }
     </style>
-    <script>
-        function toggleDetails(id) {
+    <script>function toggleDetails(id) {
             const details = document.getElementById(id);
             details.style.display = details.style.display === 'none' ? 'block' : 'none';
-        }
-    </script>
+        }</script>
 </head>
 
 <body>
     <header>
         <h1>CPU 性能天梯图</h1>
     </header>
-        <h2>前言</h2>
-        <p>测试方式：均为两名玩家，半夜测试，玩家进入后先执行几遍指令，10秒后执行5次指令并且记录。测试内容为随机选择地图上1000000个方块来更新比时间，尽量控制了变量，地图存档，插件等均相同。</p>
+    <h2>前言</h2>
+    <p>测试方式：均为两名玩家，半夜测试，玩家进入后先执行几遍指令，10秒后执行5次指令并且记录。测试内容为随机选择地图上1000000个方块来更新比时间，尽量控制了变量，地图存档，插件等均相同。</p>
     <table>
         <thead>
             <tr>
