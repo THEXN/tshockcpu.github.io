@@ -5,7 +5,7 @@ tags:
   - 学习
 id: '748'
 categories:
-  - - [学习,ctf,misc]
+  - [学习,ctf,misc]
 date: 2023-02-28 21:51:37
 ---
 
