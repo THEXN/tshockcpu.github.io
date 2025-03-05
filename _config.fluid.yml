@@ -18,11 +18,11 @@
 
 # 用于浏览器标签的图标
 # Icon for browser tab
-favicon: /img/fluid.png
+favicon: /img/logo.ico
 
 # 用于苹果设备的图标
 # Icon for Apple touch
-apple_touch_icon: /img/fluid.png
+apple_touch_icon: /img/logo.ico
 
 # 浏览器标签页中的标题分隔符，效果：文章名 - 站点名
 # Title separator in browser tab, eg: article - site
@@ -445,16 +445,22 @@ open_graph:
 footer:
   # 页脚第一行文字的 HTML，建议保留 Fluid 的链接，用于向更多人推广本主题
   # HTML of the first line of the footer, it is recommended to keep the Fluid link to promote this theme to more people
-  content: '
-    <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a>
-    <i class="iconfont icon-love"></i>
-    <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a>
-  '
+content: '
+  <a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral" target="_blank" rel="nofollow noopener">
+    <img src="https://pic.niaoluo.top/%E7%BD%91%E7%AB%99%E8%B0%83%E7%94%A8/%E5%8F%88%E6%8B%8D%E4%BA%91_logo5.png" alt="又拍云" width="60" height="30">
+  </a>
+  <i class="iconfont icon-love"></i>
+  <span>由又拍云提供CDN加速/云存储服务</span>
+  <i class="iconfont icon-love"></i>
+  <span>Copyright © by 肝帝熙恩</span>
+  <i class="iconfont icon-love"></i>
+  <a href="https://icp.gov.moe/?keyword=20223040" target="_blank" rel="nofollow noopener">萌ICP备20223040号</a>
+'
 
   # 展示网站的 PV、UV 统计数
   # Display website PV and UV statistics
   statistics:
-    enable: false
+    enable: true
 
     # 统计数据来源，使用 leancloud, umami 需要设置 `web_analytics` 中对应的参数；使用 busuanzi 不需要额外设置，但是有时不稳定，另外本地运行时 busuanzi 显示统计数据很大属于正常现象，部署后会正常
     # Data source. If use leancloud, umami, you need to set the parameter in `web_analytics`
@@ -464,13 +470,13 @@ footer:
   # 国内大陆服务器的备案信息
   # For Chinese mainland website policy, other areas keep disable
   beian:
-    enable: false
+    enable: true
     # ICP证号
-    icp_text: 京ICP证123456号
+    icp_text: 湘ICP备2022021608号-1
     # 公安备案号，不填则只显示ICP
-    police_text: 京公网安备12345678号
+    police_text: 湘公网安备 43028102000169号
     # 公安备案的编号，用于URL跳转查询
-    police_code: 12345678
+    police_code: 43028102000169
     # 公安备案的图片. 为空时不显示备案图片
     police_icon: /img/police_beian.png
 
