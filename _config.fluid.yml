@@ -20,9 +20,6 @@
 # Icon for browser tab
 favicon: /img/logo.ico
 
-# 用于跳过渲染的文件
-skip_render: 
-  - '.\source\_posts\!泰拉瑞亚相关\性能测试\性能测试ts\'
 
 # 用于苹果设备的图标
 # Icon for Apple touch
