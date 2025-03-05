@@ -450,7 +450,16 @@ footer:
         <img src="https://pic.niaoluo.top/%E7%BD%91%E7%AB%99%E8%B0%83%E7%94%A8/%E5%8F%88%E6%8B%8D%E4%BA%91_logo5.png" alt="又拍云" width="60" height="30">
     </a>
     <i class="iconfont icon-love"></i>
-    <span>由又拍云提供CDN加速/云存储服务</span>
+    <span>由
+        <a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral" target="_blank" rel="nofollow noopener">
+            <img src="https://pic.niaoluo.top/%E7%BD%91%E7%AB%99%E8%B0%83%E7%94%A8/%E5%8F%88%E6%8B%8D%E4%BA%91_logo5.png" 
+                 alt="又拍云" 
+                 width="40" 
+                 height="20" 
+                 style="vertical-align: middle; display: inline-block;">
+        </a>
+        提供CDN加速/云存储服务
+    </span>
     <i class="iconfont icon-love"></i>
     <span>Copyright by 肝帝熙恩</span>
     <i class="iconfont icon-love"></i>
