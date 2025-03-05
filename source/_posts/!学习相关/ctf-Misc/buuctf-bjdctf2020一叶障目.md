@@ -5,9 +5,7 @@ tags:
   - 学习
 id: '748'
 categories:
-  - - '%e5%ad%a6%e4%b9%a0'
-    - misc
-  - - 学习
+  - - [学习,ctf,misc]
 date: 2023-02-28 21:51:37
 ---
 

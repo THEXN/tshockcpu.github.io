@@ -1,7 +1,7 @@
 ---
 title: C++学习记录
 id: '778'
-tags: []
+tags: [学习,C++]
 categories:
   - [学习,C++]
 comments: false

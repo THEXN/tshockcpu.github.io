@@ -1,13 +1,9 @@
 ---
 title: BUUCTF-[BJDCTF2020]just_a_rar
-tags:
-  - misc
-  - 学习
+tags: [学习,ctf,misc]
 id: '744'
 categories:
-  - - '%e5%ad%a6%e4%b9%a0'
-    - misc
-  - - 学习
+  - [学习,ctf,misc]
 date: 2023-02-28 20:19:32
 ---
 

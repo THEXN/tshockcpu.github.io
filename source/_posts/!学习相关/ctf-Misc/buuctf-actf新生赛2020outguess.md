@@ -1,9 +1,9 @@
 ---
 title: BUUCTF-[ACTF新生赛2020]outguess
-tags: []
+tags: [学习,ctf,misc]
 id: '761'
 categories:
-  - - 学习
+  - [学习,ctf,misc]
 date: 2024-03-01 20:08:43
 ---
 
