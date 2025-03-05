@@ -5,6 +5,7 @@ id: '1012'
 categories:
   - - uncategorized
 date: 2023-11-10 13:35:44
+hide: true
 ---
 
 ### Enabled

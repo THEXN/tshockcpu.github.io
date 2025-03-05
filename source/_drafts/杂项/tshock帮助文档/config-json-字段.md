@@ -5,6 +5,7 @@ id: '1011'
 categories:
   - - uncategorized
 date: 2023-11-10 13:35:37
+hide: true
 ---
 
 AllowAllowedGroupsToSpawnBannedItems

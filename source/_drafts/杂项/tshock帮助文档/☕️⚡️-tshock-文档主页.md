@@ -5,6 +5,7 @@ id: '970'
 categories:
   - - uncategorized
 date: 2023-11-10 12:18:58
+hide: true
 ---
 
 *   下载：[官方版](https://github.com/TShock/TShock/releases)或[实验版](https://ikebukuro.tshock.co/#/?id=experimental-downloads)。
