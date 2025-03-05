@@ -1,9 +1,9 @@
 ---
 title: C语言
 id: '656'
-tags: []
+tags: [学习,C语言]
 categories:
-  - - uncategorized
+  - [学习,C语言]
 comments: false
 date: 2023-02-20 23:46:44
 ---
