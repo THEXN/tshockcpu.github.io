@@ -4,10 +4,8 @@ tags:
   - misc
   - 学习
 id: '320'
-categories:
-  - - '%e5%ad%a6%e4%b9%a0'
-    - misc
-  - - 学习
+categories:categories:
+  - [学习,ctf,misc]
 date: 2022-11-17 21:26:24
 ---
 
