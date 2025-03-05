@@ -2,7 +2,7 @@
 title: HGAME 2023 Week 1 之 misc
 tags: []
 id: '612'
-categories:categories:
+categories:
   - [学习,ctf,misc]
 date: 2023-01-13 01:00:00
 ---

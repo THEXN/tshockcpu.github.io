@@ -4,7 +4,7 @@ tags:
   - misc
   - 学习
 id: '318'
-categories:categories:
+categories:
   - [学习,ctf,misc]
 date: 2022-11-17 20:51:02
 ---

@@ -3,7 +3,7 @@ title: This is my first c program
 tags:
   - C语言
 id: '664'
-categories:categories:
+categories:
   - [学习,C语言]
 date: 2023-02-21 00:03:52
 ---

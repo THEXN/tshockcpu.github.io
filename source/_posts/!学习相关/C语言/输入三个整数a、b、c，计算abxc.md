@@ -4,7 +4,7 @@ tags:
   - C语言
   - 学习
 id: '673'
-categories:categories:
+categories:
   - [学习,C语言]
 date: 2023-02-21 00:11:24
 ---
