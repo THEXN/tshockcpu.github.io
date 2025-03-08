@@ -1,3 +1,0 @@
-maxplayers=20
-worldpath=Worlds
-ip = 0.0.0.0
