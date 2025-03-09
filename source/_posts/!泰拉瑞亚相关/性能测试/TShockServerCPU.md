@@ -1,5 +1,5 @@
 ---
-title: TShock服务器平台CPU性能天梯图2
+title:TShockServerCPU
 tags: [泰拉瑞亚,Terraria,TShock]
 categories:
   - [泰拉瑞亚,TShock]
