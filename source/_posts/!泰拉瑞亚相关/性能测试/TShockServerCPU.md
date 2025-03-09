@@ -1,5 +1,5 @@
 ---
-title:TShockServerCPU
+title: TShockServerCPU
 tags: [泰拉瑞亚,Terraria,TShock]
 categories:
   - [泰拉瑞亚,TShock]
