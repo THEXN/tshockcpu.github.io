@@ -1,8 +1,8 @@
 ---
-title: TShock·þÎñÆ÷Æ½Ì¨CPUÐÔÄÜÌìÌÝÍ¼
-tags: [Ì©À­ÈðÑÇ,Terraria,TShock]
+title: TShockæœåŠ¡å™¨å¹³å°CPUæ€§èƒ½å¤©æ¢¯å›¾
+tags: [æ³°æ‹‰ç‘žäºš,Terraria,TShock]
 categories:
-  - [Ì©À­ÈðÑÇ,TShock]
+  - [æ³°æ‹‰ç‘žäºš,TShock]
 date: 2024-10-23 15:41:54
 sticky: 97
 ---
@@ -13,7 +13,7 @@ sticky: 97
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TShock·þÎñÆ÷Æ½Ì¨CPUÐÔÄÜÌìÌÝÍ¼</title>
+    <title>TShockæœåŠ¡å™¨å¹³å°CPUæ€§èƒ½å¤©æ¢¯å›¾</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -78,249 +78,249 @@ sticky: 97
 
 <body>
     <header>
-        <h1>CPU ÐÔÄÜÌìÌÝÍ¼</h1>
+        <h1>CPU æ€§èƒ½å¤©æ¢¯å›¾</h1>
     </header>
-    <h2>Ç°ÑÔ</h2>
-    <p>²âÊÔ·½Ê½£º¾ùÎªÁ½ÃûÍæ¼Ò£¬°ëÒ¹²âÊÔ£¬Íæ¼Ò½øÈëºóÏÈÖ´ÐÐ¼¸±éÖ¸Áî£¬10ÃëºóÖ´ÐÐ5´ÎÖ¸Áî²¢ÇÒ¼ÇÂ¼¡£²âÊÔÄÚÈÝÎªËæ»úÑ¡ÔñµØÍ¼ÉÏ1000000¸ö·½¿éÀ´¸üÐÂ±ÈÊ±¼ä£¬¾¡Á¿¿ØÖÆÁË±äÁ¿£¬µØÍ¼´æµµ£¬²å¼þµÈ¾ùÏàÍ¬¡£</p>
+    <h2>å‰è¨€</h2>
+    <p>æµ‹è¯•æ–¹å¼ï¼šå‡ä¸ºä¸¤åçŽ©å®¶ï¼ŒåŠå¤œæµ‹è¯•ï¼ŒçŽ©å®¶è¿›å…¥åŽå…ˆæ‰§è¡Œå‡ éæŒ‡ä»¤ï¼Œ10ç§’åŽæ‰§è¡Œ5æ¬¡æŒ‡ä»¤å¹¶ä¸”è®°å½•ã€‚æµ‹è¯•å†…å®¹ä¸ºéšæœºé€‰æ‹©åœ°å›¾ä¸Š1000000ä¸ªæ–¹å—æ¥æ›´æ–°æ¯”æ—¶é—´ï¼Œå°½é‡æŽ§åˆ¶äº†å˜é‡ï¼Œåœ°å›¾å­˜æ¡£ï¼Œæ’ä»¶ç­‰å‡ç›¸åŒã€‚</p>
     <table>
         <thead>
             <tr>
-                <th>CPU ÐÍºÅ</th>
-                <th>ÐÔÄÜ·ÖÊý</th>
-                <th>²Ù×÷</th>
+                <th>CPU åž‹å·</th>
+                <th>æ€§èƒ½åˆ†æ•°</th>
+                <th>æ“ä½œ</th>
             </tr>
         </thead>
         <tbody>
             <!-- 1 -->
             <tr>
-                <td>¼ò»Ã»¶ R9-9900X 9950X</td>
+                <td>ç®€å¹»æ¬¢ R9-9900X 9950X</td>
                 <td>1249229.490</td>
-                <td><button onclick="toggleDetails('details1')">Õ¹¿ª</button></td>
+                <td><button onclick="toggleDetails('details1')">å±•å¼€</button></td>
             </tr>
             <tr id="details1" class="details">
                 <td colspan="4">
-                    <img src="TShock·þÎñÆ÷Æ½Ì¨CPUÐÔÄÜÌìÌÝ/¼ò»Ã»¶ R9-9900X 9950X.jpg" alt="¼ò»Ã»¶ R9-9900X 9950X">
-                    S£¨R9-9900X/9950X£©.A.M.L 4ºË8g 25G£¨Ó²ÅÌ£©170»ý·Ö
+                    <img src="TShockæœåŠ¡å™¨å¹³å°CPUæ€§èƒ½å¤©æ¢¯/ç®€å¹»æ¬¢ R9-9900X 9950X.jpg" alt="ç®€å¹»æ¬¢ R9-9900X 9950X">
+                    Sï¼ˆR9-9900X/9950Xï¼‰.A.M.L 4æ ¸8g 25Gï¼ˆç¡¬ç›˜ï¼‰170ç§¯åˆ†
                 </td>
             </tr>
 
             <tr>
-                <td>¼ò»Ã»¶ R9-7900X 7950X</td>
+                <td>ç®€å¹»æ¬¢ R9-7900X 7950X</td>
                 <td>1137226.23</td>
-                <td><button onclick="toggleDetails('details4')">Õ¹¿ª</button></td>
+                <td><button onclick="toggleDetails('details4')">å±•å¼€</button></td>
             </tr>
             <tr id="details4" class="details">
                 <td colspan="4">
-                    <img src="TShock·þÎñÆ÷Æ½Ì¨CPUÐÔÄÜÌìÌÝ/¼ò»Ã»¶ R9-7900X 7950X.jpg" alt="¼ò»Ã»¶ R9-7900X 7950X">
-                    S-£¨R9-7900X/7950X£©.A.M.L 4ºË8g 25G£¨Ó²ÅÌ£©145»ý·Ö
+                    <img src="TShockæœåŠ¡å™¨å¹³å°CPUæ€§èƒ½å¤©æ¢¯/ç®€å¹»æ¬¢ R9-7900X 7950X.jpg" alt="ç®€å¹»æ¬¢ R9-7900X 7950X">
+                    S-ï¼ˆR9-7900X/7950Xï¼‰.A.M.L 4æ ¸8g 25Gï¼ˆç¡¬ç›˜ï¼‰145ç§¯åˆ†
                 </td>
             </tr>
 
             <tr>
-                <td>¼ò»Ã»¶ I9-13900K, I7-14700K</td>
+                <td>ç®€å¹»æ¬¢ I9-13900K, I7-14700K</td>
                 <td>1095073.400</td>
-                <td><button onclick="toggleDetails('details2')">Õ¹¿ª</button></td>
+                <td><button onclick="toggleDetails('details2')">å±•å¼€</button></td>
             </tr>
             <tr id="details2" class="details">
                 <td colspan="4">
-                    <img src="TShock·þÎñÆ÷Æ½Ì¨CPUÐÔÄÜÌìÌÝ/¼ò»Ã»¶ I9-13900K, I7-14700K.jpg" alt="¼ò»Ã»¶ I9-13900K, I7-14700K">
-                    S£¨I9-13900K,I7-14700K£©.I.M.L 4ºË8g 25G£¨Ó²ÅÌ£©170»ý·Ö
+                    <img src="TShockæœåŠ¡å™¨å¹³å°CPUæ€§èƒ½å¤©æ¢¯/ç®€å¹»æ¬¢ I9-13900K, I7-14700K.jpg" alt="ç®€å¹»æ¬¢ I9-13900K, I7-14700K">
+                    Sï¼ˆI9-13900K,I7-14700Kï¼‰.I.M.L 4æ ¸8g 25Gï¼ˆç¡¬ç›˜ï¼‰170ç§¯åˆ†
                 </td>
             </tr>
 
 
             <tr>
-                <td>LoguhanµÄ AMD Ryzen 5 5500</td>
+                <td>Loguhançš„ AMD Ryzen 5 5500</td>
                 <td>945001.978</td>
-                <td><button onclick="toggleDetails('details20')">Õ¹¿ª</button></td>
+                <td><button onclick="toggleDetails('details20')">å±•å¼€</button></td>
             </tr>
             <tr id="details20" class="details">
                 <td colspan="4">
-                    <img src="TShock·þÎñÆ÷Æ½Ì¨CPUÐÔÄÜÌìÌÝ/LoguhanµÄ AMD Ryzen 5 5500.png" alt="LoguhanµÄ AMD Ryzen 5 5500">
-                    LoguhanµÄ AMD Ryzen 5 5500
+                    <img src="TShockæœåŠ¡å™¨å¹³å°CPUæ€§èƒ½å¤©æ¢¯/Loguhançš„ AMD Ryzen 5 5500.png" alt="Loguhançš„ AMD Ryzen 5 5500">
+                    Loguhançš„ AMD Ryzen 5 5500
                 </td>
             </tr>
 
             <tr>
-                <td>¼ò»Ã»¶ I7-12700K,I7-13700K</td>
+                <td>ç®€å¹»æ¬¢ I7-12700K,I7-13700K</td>
                 <td>939637.550</td>
-                <td><button onclick="toggleDetails('details3')">Õ¹¿ª</button></td>
+                <td><button onclick="toggleDetails('details3')">å±•å¼€</button></td>
             </tr>
             <tr id="details3" class="details">
                 <td colspan="4">
-                    <img src="TShock·þÎñÆ÷Æ½Ì¨CPUÐÔÄÜÌìÌÝ/¼ò»Ã»¶ I7-12700K,I7-13700K.jpg" alt="¼ò»Ã»¶ I7-12700K,I7-13700K">
-                    S-£¨I7-12700K,I7-13700K£©.I.M.L 4ºË8g 25G£¨Ó²ÅÌ£©145»ý·Ö
+                    <img src="TShockæœåŠ¡å™¨å¹³å°CPUæ€§èƒ½å¤©æ¢¯/ç®€å¹»æ¬¢ I7-12700K,I7-13700K.jpg" alt="ç®€å¹»æ¬¢ I7-12700K,I7-13700K">
+                    S-ï¼ˆI7-12700K,I7-13700Kï¼‰.I.M.L 4æ ¸8g 25Gï¼ˆç¡¬ç›˜ï¼‰145ç§¯åˆ†
                 </td>
             </tr>
 
             <tr>
-                <td>¼ò»Ã»¶ R9-5900X, R9-5950X</td>
+                <td>ç®€å¹»æ¬¢ R9-5900X, R9-5950X</td>
                 <td>829916.660</td>
-                <td><button onclick="toggleDetails('details5')">Õ¹¿ª</button></td>
+                <td><button onclick="toggleDetails('details5')">å±•å¼€</button></td>
             </tr>
             <tr id="details5" class="details">
                 <td colspan="4">
-                    <img src="TShock·þÎñÆ÷Æ½Ì¨CPUÐÔÄÜÌìÌÝ/¼ò»Ã»¶ R9-5900X, R9-5950X.jpg" alt="¼ò»Ã»¶ R9-5900X, R9-5950X">
-                    A£¨R9-5900X/5950X£©.A.M.L 4ºË8g 20G£¨Ó²ÅÌ£©130»ý·Ö
+                    <img src="TShockæœåŠ¡å™¨å¹³å°CPUæ€§èƒ½å¤©æ¢¯/ç®€å¹»æ¬¢ R9-5900X, R9-5950X.jpg" alt="ç®€å¹»æ¬¢ R9-5900X, R9-5950X">
+                    Aï¼ˆR9-5900X/5950Xï¼‰.A.M.L 4æ ¸8g 20Gï¼ˆç¡¬ç›˜ï¼‰130ç§¯åˆ†
                 </td>
             </tr>
             <!-- 6 -->
             <tr>
-                <td>ÓðÑ§ R7-4800H</td>
+                <td>ç¾½å­¦ R7-4800H</td>
                 <td>839295.236</td>
-                <td><button onclick="toggleDetails('details6')">Õ¹¿ª</button></td>
+                <td><button onclick="toggleDetails('details6')">å±•å¼€</button></td>
             </tr>
             <tr id="details6" class="details">
                 <td colspan="4">
-                    <img src="TShock·þÎñÆ÷Æ½Ì¨CPUÐÔÄÜÌìÌÝ/ÓðÑ§ R7-4800H.jpg" alt="ÓðÑ§ R7-4800H">
-                    ÓðÑ§¸ç¸çµÄµçÄÔ
+                    <img src="TShockæœåŠ¡å™¨å¹³å°CPUæ€§èƒ½å¤©æ¢¯/ç¾½å­¦ R7-4800H.jpg" alt="ç¾½å­¦ R7-4800H">
+                    ç¾½å­¦å“¥å“¥çš„ç”µè„‘
                 </td>
             </tr>
             <!-- 7 -->
             <tr>
-                <td>Îõ¶÷ R7-5700U</td>
+                <td>ç†™æ© R7-5700U</td>
                 <td>715876.960</td>
-                <td><button onclick="toggleDetails('details7')">Õ¹¿ª</button></td>
+                <td><button onclick="toggleDetails('details7')">å±•å¼€</button></td>
             </tr>
             <tr id="details7" class="details">
                 <td colspan="4">
-                    <img src="TShock·þÎñÆ÷Æ½Ì¨CPUÐÔÄÜÌìÌÝ/Îõ¶÷ R7-5700U.jpg" alt="Îõ¶÷ R7-5700U">
-                    ÎÒ×Ô¼ºµÄµçÄÔ
+                    <img src="TShockæœåŠ¡å™¨å¹³å°CPUæ€§èƒ½å¤©æ¢¯/ç†™æ© R7-5700U.jpg" alt="ç†™æ© R7-5700U">
+                    æˆ‘è‡ªå·±çš„ç”µè„‘
                 </td>
             </tr>
 
             <tr>
-                <td>ÌÚÑ¶ÔÆ AMD EPYC 7K62 48-Core Processor 2.60 GHz</td>
+                <td>è…¾è®¯äº‘ AMD EPYC 7K62 48-Core Processor 2.60 GHz</td>
                 <td>585560.768</td>
-                <td><button onclick="toggleDetails('details18')">Õ¹¿ª</button></td>
+                <td><button onclick="toggleDetails('details18')">å±•å¼€</button></td>
             </tr>
             <tr id="details18" class="details">
                 <td colspan="4">
-                    <img src="TShock·þÎñÆ÷Æ½Ì¨CPUÐÔÄÜÌìÌÝ/ÌÚÑ¶ÔÆ AMD EPYC 7K62 48-Core Processor 2.60 GHz.jpg" alt="ÌÚÑ¶ÔÆ AMD EPYC 7K62 48-Core Processor 2.60 GHz.jpg">
-                    ÌÚÑ¶ÔÆÌØ»Ý»úÆ÷ Íü¼Ç¼¸°Ù3ÄêÁË
+                    <img src="TShockæœåŠ¡å™¨å¹³å°CPUæ€§èƒ½å¤©æ¢¯/è…¾è®¯äº‘ AMD EPYC 7K62 48-Core Processor 2.60 GHz.jpg" alt="è…¾è®¯äº‘ AMD EPYC 7K62 48-Core Processor 2.60 GHz.jpg">
+                    è…¾è®¯äº‘ç‰¹æƒ æœºå™¨ å¿˜è®°å‡ ç™¾3å¹´äº†
                 </td>
             </tr>
 
             <tr>
-                <td>¼ò»Ã»¶ EPYC 7C13, EPYC 7B13, EPYC 7713</td>
+                <td>ç®€å¹»æ¬¢ EPYC 7C13, EPYC 7B13, EPYC 7713</td>
                 <td>585560.768</td>
-                <td><button onclick="toggleDetails('details8')">Õ¹¿ª</button></td>
+                <td><button onclick="toggleDetails('details8')">å±•å¼€</button></td>
             </tr>
             <tr id="details8" class="details">
                 <td colspan="4">
-                    <img src="TShock·þÎñÆ÷Æ½Ì¨CPUÐÔÄÜÌìÌÝ/¼ò»Ã»¶ EPYC 7C13, EPYC 7B13, EPYC 7713.jpg" alt="¼ò»Ã»¶ EPYC 7C13, EPYC 7B13, EPYC 7713">
-                    B+£¨EPYC 7C13/7B13/7713£©.A.L.L 4ºË16g 16G£¨Ó²ÅÌ£©85»ý·Ö
+                    <img src="TShockæœåŠ¡å™¨å¹³å°CPUæ€§èƒ½å¤©æ¢¯/ç®€å¹»æ¬¢ EPYC 7C13, EPYC 7B13, EPYC 7713.jpg" alt="ç®€å¹»æ¬¢ EPYC 7C13, EPYC 7B13, EPYC 7713">
+                    B+ï¼ˆEPYC 7C13/7B13/7713ï¼‰.A.L.L 4æ ¸16g 16Gï¼ˆç¡¬ç›˜ï¼‰85ç§¯åˆ†
                 </td>
             </tr>
             <!-- 9 -->
             <tr>
-                <td>ÓêÔÆ E5-2666v3</td>
+                <td>é›¨äº‘ E5-2666v3</td>
                 <td>557747.384</td>
-                <td><button onclick="toggleDetails('details9')">Õ¹¿ª</button></td>
+                <td><button onclick="toggleDetails('details9')">å±•å¼€</button></td>
             </tr>
             <tr id="details9" class="details">
                 <td colspan="4">
-                    <img src="TShock·þÎñÆ÷Æ½Ì¨CPUÐÔÄÜÌìÌÝ/ÓêÔÆ E5-2666v3.jpg" alt="ÓêÔÆ E5-2666v3">
-                    Ã¿ÌìÇ©µ½500»ý·Ö£¬¼òµ¥µÄÒ»´ÎÐÔ»ý·Ö¹²8000£¬2000»ý·ÖÁìÈ¡7Ìì£¬Ãâ·ÑÐøÆÚ7Ìì2258
-                    ÅäÖÃ E5-2666v3 ¶¯Ì¬¼Æ·Ñ£¨ËûÀïÃæÓÐµçÁ¿£©£¬2 vCPU 4 GB 10 GB£¨´ÅÅÌ£©20 Mbps 100 Mbps£¨ÉÏÏÂ£©
-                    ¸öÈË²âÊÔÌåÑé Ãæ°åºÜÁ÷³©£¬ÓÐ×Ô¶¨ÒåÆô¶¯½Å±¾£¬¸Ð¾õ²»´í£¬ºóÐø²âÊÔ ´óÊ¦FTW´óÊÀ½ç1Ìì7ÈË×óÓÒÏÂÀ´´ó¸ÅÔÚ1000µçÁ¿×óÓÒ£¨µÈÓÚ»ý·Ö500£©£¬¶øÇÒ»á³öÏÖÆæ¹ÖµÄÎÊÌâ£¬²âÊÔ·þÖ÷·¢ÏÖ Íæ¼ÒÓÐÊ±ºò»áÄªÃû¶ÏÁ¬£¬µ«ÊÇºóÌ¨Î´ÏÔÊ¾Íæ¼Ò±»Ìß³ö£¬ÊÖ¶¯Ìß³öºó£¬´ó²¿·ÖÍæ¼ÒÒ²ÎÞ·¨ÔÙ´Î½øÈë£¬²¢ÇÒºóÌ¨Ã»ÓÐÍæ¼ÒµÄÁ´½ÓÇëÇó£¬ÔÚ¼ò»Ã»¶²âÊÔ²»»á³öÏÖÕâÖÖÇé¿ö£¬´ó¸ÅÂÊÊÇÓêÔÆµÄÎÊÌâ
+                    <img src="TShockæœåŠ¡å™¨å¹³å°CPUæ€§èƒ½å¤©æ¢¯/é›¨äº‘ E5-2666v3.jpg" alt="é›¨äº‘ E5-2666v3">
+                    æ¯å¤©ç­¾åˆ°500ç§¯åˆ†ï¼Œç®€å•çš„ä¸€æ¬¡æ€§ç§¯åˆ†å…±8000ï¼Œ2000ç§¯åˆ†é¢†å–7å¤©ï¼Œå…è´¹ç»­æœŸ7å¤©2258
+                    é…ç½® E5-2666v3 åŠ¨æ€è®¡è´¹ï¼ˆä»–é‡Œé¢æœ‰ç”µé‡ï¼‰ï¼Œ2 vCPU 4 GB 10 GBï¼ˆç£ç›˜ï¼‰20 Mbps 100 Mbpsï¼ˆä¸Šä¸‹ï¼‰
+                    ä¸ªäººæµ‹è¯•ä½“éªŒ é¢æ¿å¾ˆæµç•…ï¼Œæœ‰è‡ªå®šä¹‰å¯åŠ¨è„šæœ¬ï¼Œæ„Ÿè§‰ä¸é”™ï¼ŒåŽç»­æµ‹è¯• å¤§å¸ˆFTWå¤§ä¸–ç•Œ1å¤©7äººå·¦å³ä¸‹æ¥å¤§æ¦‚åœ¨1000ç”µé‡å·¦å³ï¼ˆç­‰äºŽç§¯åˆ†500ï¼‰ï¼Œè€Œä¸”ä¼šå‡ºçŽ°å¥‡æ€ªçš„é—®é¢˜ï¼Œæµ‹è¯•æœä¸»å‘çŽ° çŽ©å®¶æœ‰æ—¶å€™ä¼šèŽ«åæ–­è¿žï¼Œä½†æ˜¯åŽå°æœªæ˜¾ç¤ºçŽ©å®¶è¢«è¸¢å‡ºï¼Œæ‰‹åŠ¨è¸¢å‡ºåŽï¼Œå¤§éƒ¨åˆ†çŽ©å®¶ä¹Ÿæ— æ³•å†æ¬¡è¿›å…¥ï¼Œå¹¶ä¸”åŽå°æ²¡æœ‰çŽ©å®¶çš„é“¾æŽ¥è¯·æ±‚ï¼Œåœ¨ç®€å¹»æ¬¢æµ‹è¯•ä¸ä¼šå‡ºçŽ°è¿™ç§æƒ…å†µï¼Œå¤§æ¦‚çŽ‡æ˜¯é›¨äº‘çš„é—®é¢˜
                 </td>
             </tr>
 
             <tr>
                 <td>Intel(R) Xeon(R) Platinum 8124M CPU @ 3.00GHz</td>
                 <td>506865.884</td>
-                <td><button onclick="toggleDetails('details17')">Õ¹¿ª</button></td>
+                <td><button onclick="toggleDetails('details17')">å±•å¼€</button></td>
             </tr>
             <tr id="details17" class="details">
                 <td colspan="4">
-                    <img src="TShock·þÎñÆ÷Æ½Ì¨CPUÐÔÄÜÌìÌÝ/Intel(R) Xeon(R) Platinum 8124M CPU @ 3.00GHz.jpg" alt="Intel(R) Xeon(R) Platinum 8124M CPU @ 3.00GHz">
-                    ß÷ÔÆS4
+                    <img src="TShockæœåŠ¡å™¨å¹³å°CPUæ€§èƒ½å¤©æ¢¯/Intel(R) Xeon(R) Platinum 8124M CPU @ 3.00GHz.jpg" alt="Intel(R) Xeon(R) Platinum 8124M CPU @ 3.00GHz">
+                    å–µäº‘S4
                 </td>
             </tr>
 
             <tr>
-                <td>¼ò»Ã»¶ E5-2690v4,²¬½ð8175M,½ðÅÆ6148</td>
+                <td>ç®€å¹»æ¬¢ E5-2690v4,é“‚é‡‘8175M,é‡‘ç‰Œ6148</td>
                 <td>505349.168</td>
-                <td><button onclick="toggleDetails('details15')">Õ¹¿ª</button></td>
+                <td><button onclick="toggleDetails('details15')">å±•å¼€</button></td>
             </tr>
             <tr id="details15" class="details">
                 <td colspan="4">
-                    <img src="TShock·þÎñÆ÷Æ½Ì¨CPUÐÔÄÜÌìÌÝ/¼ò»Ã»¶ E5-2690v4,²¬½ð8175M,½ðÅÆ6148.jpg" alt="¼ò»Ã»¶ E5-2690v4,²¬½ð8175M,½ðÅÆ6148">
-                    B-£¨E5-2690v4,²¬½ð8175M,½ðÅÆ6148£©.I.M+.L 4ºË12g 16G£¨Ó²ÅÌ£©60»ý·Ö
+                    <img src="TShockæœåŠ¡å™¨å¹³å°CPUæ€§èƒ½å¤©æ¢¯/ç®€å¹»æ¬¢ E5-2690v4,é“‚é‡‘8175M,é‡‘ç‰Œ6148.jpg" alt="ç®€å¹»æ¬¢ E5-2690v4,é“‚é‡‘8175M,é‡‘ç‰Œ6148">
+                    B-ï¼ˆE5-2690v4,é“‚é‡‘8175M,é‡‘ç‰Œ6148ï¼‰.I.M+.L 4æ ¸12g 16Gï¼ˆç¡¬ç›˜ï¼‰60ç§¯åˆ†
                 </td>
             </tr>
 
             <tr>
-                <td>¼ò»Ã»¶ E5-2682v4</td>
+                <td>ç®€å¹»æ¬¢ E5-2682v4</td>
                 <td>454498.988</td>
-                <td><button onclick="toggleDetails('details11')">Õ¹¿ª</button></td>
+                <td><button onclick="toggleDetails('details11')">å±•å¼€</button></td>
             </tr>
             <tr id="details11" class="details">
                 <td colspan="4">
-                    <img src="TShock·þÎñÆ÷Æ½Ì¨CPUÐÔÄÜÌìÌÝ/¼ò»Ã»¶ E5-2682v4.jpg" alt="¼ò»Ã»¶ E5-2682v4">
-                    C+£¨E5-2682v4£©.I.M+.L 4ºË12g 16G£¨Ó²ÅÌ£©50»ý·Ö
+                    <img src="TShockæœåŠ¡å™¨å¹³å°CPUæ€§èƒ½å¤©æ¢¯/ç®€å¹»æ¬¢ E5-2682v4.jpg" alt="ç®€å¹»æ¬¢ E5-2682v4">
+                    C+ï¼ˆE5-2682v4ï¼‰.I.M+.L 4æ ¸12g 16Gï¼ˆç¡¬ç›˜ï¼‰50ç§¯åˆ†
                 </td>
             </tr>
 
             <tr>
-                <td>¼ò»Ã»¶ E5-2696v2, E5-2697v2</td>
+                <td>ç®€å¹»æ¬¢ E5-2696v2, E5-2697v2</td>
                 <td>393140.364</td>
-                <td><button onclick="toggleDetails('details10')">Õ¹¿ª</button></td>
+                <td><button onclick="toggleDetails('details10')">å±•å¼€</button></td>
             </tr>
             <tr id="details10" class="details">
                 <td colspan="4">
-                    <img src="TShock·þÎñÆ÷Æ½Ì¨CPUÐÔÄÜÌìÌÝ/¼ò»Ã»¶ E5-2696v2, E5-2697v2.jpg" alt="E5-2696v2">
-                    C£¨E5-2696v2»òE5-2697v2£©.I.L.L 4ºË16G 16G£¨Ó²ÅÌ£©£¬50»ý·Ö
+                    <img src="TShockæœåŠ¡å™¨å¹³å°CPUæ€§èƒ½å¤©æ¢¯/ç®€å¹»æ¬¢ E5-2696v2, E5-2697v2.jpg" alt="E5-2696v2">
+                    Cï¼ˆE5-2696v2æˆ–E5-2697v2ï¼‰.I.L.L 4æ ¸16G 16Gï¼ˆç¡¬ç›˜ï¼‰ï¼Œ50ç§¯åˆ†
                 </td>
             </tr>
 
 
             <tr>
-                <td>wemc Î´ÖªÅäÖÃ</td>
+                <td>wemc æœªçŸ¥é…ç½®</td>
                 <td>344878.558</td>
-                <td><button onclick="toggleDetails('details16')">Õ¹¿ª</button></td>
+                <td><button onclick="toggleDetails('details16')">å±•å¼€</button></td>
             </tr>
             <tr id="details16" class="details">
                 <td colspan="4">
-                    <img src="TShock·þÎñÆ÷Æ½Ì¨CPUÐÔÄÜÌìÌÝ/wemc Î´ÖªÅäÖÃ.jpg" alt="wemc Î´ÖªÅäÖÃ">
-                    ¸öÈËÊ¹ÓÃÌåÑé£º¸÷ÖÖÆæ¹ÖµÄÐ¡ÎÊÌâ£¬¶øÇÒËûÃÇµÄÆô¶¯½Å±¾Ì«¹ÖÁË£¬»¹²»ºÃ×Ô¶¨ÒåÆô¶¯½Å±¾£¨Äã²»ºÃÅöµ½ËûÃÇµÄ½Å±¾£©
+                    <img src="TShockæœåŠ¡å™¨å¹³å°CPUæ€§èƒ½å¤©æ¢¯/wemc æœªçŸ¥é…ç½®.jpg" alt="wemc æœªçŸ¥é…ç½®">
+                    ä¸ªäººä½¿ç”¨ä½“éªŒï¼šå„ç§å¥‡æ€ªçš„å°é—®é¢˜ï¼Œè€Œä¸”ä»–ä»¬çš„å¯åŠ¨è„šæœ¬å¤ªæ€ªäº†ï¼Œè¿˜ä¸å¥½è‡ªå®šä¹‰å¯åŠ¨è„šæœ¬ï¼ˆä½ ä¸å¥½ç¢°åˆ°ä»–ä»¬çš„è„šæœ¬ï¼‰
                 </td>
             </tr>
 
             <tr>
-                <td>¼ò»Ã»¶ ²¬½ð8151</td>
+                <td>ç®€å¹»æ¬¢ é“‚é‡‘8151</td>
                 <td>288840.012</td>
-                <td><button onclick="toggleDetails('details12')">Õ¹¿ª</button></td>
+                <td><button onclick="toggleDetails('details12')">å±•å¼€</button></td>
             </tr>
             <tr id="details12" class="details">
                 <td colspan="4">
-                    <img src="TShock·þÎñÆ÷Æ½Ì¨CPUÐÔÄÜÌìÌÝ/¼ò»Ã»¶ ²¬½ð8151.jpg" alt="¼ò»Ã»¶ ²¬½ð8151">
-                    B++£¨²¬½ð8151£©.I.L.L4ºË16g 20G£¨Ó²ÅÌ£©95»ý·Ö
+                    <img src="TShockæœåŠ¡å™¨å¹³å°CPUæ€§èƒ½å¤©æ¢¯/ç®€å¹»æ¬¢ é“‚é‡‘8151.jpg" alt="ç®€å¹»æ¬¢ é“‚é‡‘8151">
+                    B++ï¼ˆé“‚é‡‘8151ï¼‰.I.L.L4æ ¸16g 20Gï¼ˆç¡¬ç›˜ï¼‰95ç§¯åˆ†
                 </td>
             </tr>
 
             <tr>
-                <td>¼ò»Ã»¶ ½ðÅÆ6140</td>
+                <td>ç®€å¹»æ¬¢ é‡‘ç‰Œ6140</td>
                 <td>199229.238</td>
-                <td><button onclick="toggleDetails('details13')">Õ¹¿ª</button></td>
+                <td><button onclick="toggleDetails('details13')">å±•å¼€</button></td>
             </tr>
             <tr id="details13" class="details">
                 <td colspan="4">
-                    <img src="TShock·þÎñÆ÷Æ½Ì¨CPUÐÔÄÜÌìÌÝ/¼ò»Ã»¶ ½ðÅÆ6140.jpg" alt="¼ò»Ã»¶ ½ðÅÆ6140">
-                    C++£¨½ðÅÆ6140£©.I.M.L 4ºË8G 16G£¨Ó²ÅÌ£©£¬50»ý·Ö
+                    <img src="TShockæœåŠ¡å™¨å¹³å°CPUæ€§èƒ½å¤©æ¢¯/ç®€å¹»æ¬¢ é‡‘ç‰Œ6140.jpg" alt="ç®€å¹»æ¬¢ é‡‘ç‰Œ6140">
+                    C++ï¼ˆé‡‘ç‰Œ6140ï¼‰.I.M.L 4æ ¸8G 16Gï¼ˆç¡¬ç›˜ï¼‰ï¼Œ50ç§¯åˆ†
                 </td>
             </tr>
 
             <tr>
-                <td>¼ò»Ã»¶ ²¬½ð8124 8124M</td>
+                <td>ç®€å¹»æ¬¢ é“‚é‡‘8124 8124M</td>
                 <td>197233.306</td>
-                <td><button onclick="toggleDetails('details14')">Õ¹¿ª</button></td>
+                <td><button onclick="toggleDetails('details14')">å±•å¼€</button></td>
             </tr>
             <tr id="details14" class="details">
                 <td colspan="4">
-                    <img src="TShock·þÎñÆ÷Æ½Ì¨CPUÐÔÄÜÌìÌÝ/¼ò»Ã»¶ ²¬½ð8124 8124M.jpg" alt="¼ò»Ã»¶ ²¬½ð8124 8124M">
-                    B£¨²¬½ð8124/8124M£©.I.M.L 4ºË8g 16G£¨Ó²ÅÌ£©70»ý·Ö
+                    <img src="TShockæœåŠ¡å™¨å¹³å°CPUæ€§èƒ½å¤©æ¢¯/ç®€å¹»æ¬¢ é“‚é‡‘8124 8124M.jpg" alt="ç®€å¹»æ¬¢ é“‚é‡‘8124 8124M">
+                    Bï¼ˆé“‚é‡‘8124/8124Mï¼‰.I.M.L 4æ ¸8g 16Gï¼ˆç¡¬ç›˜ï¼‰70ç§¯åˆ†
                 </td>
             </tr>
         </tbody>
