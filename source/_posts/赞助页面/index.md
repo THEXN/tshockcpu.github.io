@@ -1,5 +1,5 @@
 ---
-title: Untitled Post - 9
+title: 赞助页面
 id: '353'
 tags: [赞助]
 categories:
@@ -7,7 +7,6 @@ categories:
 date: 2022-11-19 14:15:03
 ---
 
- 赞助页面 body { font-family: Arial, sans-serif; background-color: #f9f9f9; color: #333; text-align: center; margin: 0; padding: 0; } .container { max-width: 800px; margin: 0 auto; padding: 50px 20px; background-color: #fff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); border-radius: 10px; margin-top: 50px; } h1 { font-size: 28px; margin-bottom: 20px; color: #333; } p { font-size: 16px; line-height: 1.6; color: #666; margin-bottom: 20px; } .strikethrough { text-decoration: line-through; color: #999; } a { color: #007BFF; text-decoration: none; font-weight: bold; } a:hover { text-decoration: underline; } 
 
 # 骗你的，不接受赞助，至少不接受金钱和任何带交易目的的“赞助”。
 
